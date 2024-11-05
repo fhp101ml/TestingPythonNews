@@ -19,22 +19,17 @@ The repository includes a Jupyter Notebook template that will be used as a start
 
 The index below provides links to the resources and sources used in the project.
 
-1. [Python 3.1 Features](docs/python_3_1.md)
-2. [Exploring Type Hints](docs/type_hints.md)
-3. [Asynchronous Patterns Examples](docs/async_patterns.md)
+1. [Python 3.13 Features]()
+2. [Polars faster with cuda](https://pub.towardsai.net/polars-just-got-even-faster-7a91d7b5a26c)
 
 
 > **Note**: This index will be updated regularly as new experiments and resources are added.
 
 ## Requirements
 
-This project is Dockerized and always uses the latest version of Docker. Additional branches may be available to support other versions of the project.
-
 You will need:
-- **Docker** (latest version recommended)
 - **Python 3.10 or higher** (if running outside of Docker)
 - **Jupyter Notebook** (for viewing and editing `.ipynb` files)
-- **Poetry** (optional, for dependency management)
 
 ## Installation
 
